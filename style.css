@@ -8,6 +8,7 @@ body {
 
 h1 {
     background-color: #166088;
+    color:cornsilk;
 }
 
 main {
@@ -17,4 +18,5 @@ main {
 
 footer {
     background-color: #dbe9ee;
+    color: black;
 }
